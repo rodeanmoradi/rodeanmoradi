@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @rodeanmoradi
-- 👀 I’m interested in ... ML
-- 🌱 I’m currently learning ... Python
+- 1st year MechE @ UofT
 
 <!---
 rodeanmoradi/rodeanmoradi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
